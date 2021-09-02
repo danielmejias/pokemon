@@ -1,0 +1,3 @@
+### pokemon por id
+
+GET http://localhost:5000/api/pokemon/1
